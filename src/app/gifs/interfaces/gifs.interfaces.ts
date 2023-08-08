@@ -102,7 +102,7 @@ export interface User {
 
 export enum Username {
   Empty = '',
-  Minecraft = 'minecraft',
+  Minecraft = 'minecraf',
 }
 
 export interface Meta {
